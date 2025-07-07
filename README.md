@@ -36,3 +36,9 @@
 <!-- Github Stats -->
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SoulMassive&show_icons=true&theme=radical)
+
+<!-- Quatations -->
+### Daily Quotations
+
+Success is the sum of small efforts, repeated day in and day out.
+— Robert Collier
