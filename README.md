@@ -4,7 +4,7 @@
 ## About Me
 
 🧑 Computer Science Student who is a hungry learner.<br/>
-🏫 Pursuing Information Science and Engineering at MVJ College of Engineering, Bengaluru, India.<br/>
+🏫 Pursuing Information Science and Engineering.<br/>
 ⌚ Hardworking, great at managing time, and always excited to learn something new.<br/>
 🎴 As a hobby, I edit videos, learn new AI tools, play video games and sports.<br/>
 
